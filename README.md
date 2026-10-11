@@ -82,3 +82,14 @@ I used XLOOKUP to connect information from different worksheets, along with FILT
 I also wanted to make sure the system actually worked, so I tested it by changing the inventory levels of different products. When I lowered a product's available stock, Excel automatically updated the reorder status, suggested purchasing quantity, estimated cost, and stockout risk. The product also appeared in the purchasing priority list without me having to add it manually.
 
 I thought this was one of the most interesting parts of the project because I could see how Excel could be used to build a system that helps make business decisions, rather than just displaying information in a dashboard.
+
+
+## Dashboard Screenshots
+
+### Sales Dashboard
+![Sales Dashboard](Sales_Dashboard.png)
+
+### Inventory Dashboard
+![Inventory Dashboard](Inventory_Dashboard.png)
+
+
