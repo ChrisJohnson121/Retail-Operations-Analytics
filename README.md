@@ -34,7 +34,7 @@ I also used XLOOKUP, FILTER, and SORTBY to create a purchasing list that automat
 
 ## Key Findings
 
-##Sales Performance##
+### Sales Performance
 - Total revenue: $245,124.21
 - Gross profit: $115,654.25
 - Gross profit margin: 47.18%
@@ -42,7 +42,7 @@ I also used XLOOKUP, FILTER, and SORTBY to create a purchasing list that automat
 - Highest-revenue category: Accessories
 - Highest-revenue market: Charlotte
 
-##Inventory Management##
+### Inventory Management
 - Products needing reorder: 6
 - Suggested purchasing quantity: 707 units
 - Estimated purchasing cost: $13,334.20
