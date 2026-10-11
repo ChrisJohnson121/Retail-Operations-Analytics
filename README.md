@@ -84,12 +84,12 @@ I also wanted to make sure the system actually worked, so I tested it by changin
 I thought this was one of the most interesting parts of the project because I could see how Excel could be used to build a system that helps make business decisions, rather than just displaying information in a dashboard.
 
 
-## Dashboard Screenshots
+== Dashboard Screenshots
 
-### Sales Dashboard
-![Sales Dashboard](Sales_Dashboard.png)
+=== Sales Dashboard
+![Sales Dashboard](SalesDashboard.png)
 
-### Inventory Dashboard
-![Inventory Dashboard](Inventory_Dashboard.png)
+=== Inventory Dashboard
+![Inventory Dashboard](InventoryDashboard.png)
 
 
